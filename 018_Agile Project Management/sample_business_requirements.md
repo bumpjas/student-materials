@@ -1,16 +1,19 @@
 # Title
+Seven Praises
+## Executive Summary I am looking to make a app based n this scripture out of the Passion Translation Bible. Pslam 119:164  I stop to praise you seven times a day, all because your ways are perfect!
+  This will be an app to sed out reminders seven times a day with the sound clip or music clip that the user will choose.  it is based on the above scripture that says to praise the Lord seven times.
+  I will be posting links to videos to help you in this process also. And articles n how to do this also.
 
-## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
 
 ## Business Objectives
-
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This will be a free app becuase the scripture says in 
+Matthew 10:8 8Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.  It will have an opyton to reciev free will offerings to support the coder and designer if they wish.
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+I am doing this project just to encourage fellow believers. 1 Thessalonians 4:18 18Therefore encourage one another with these words. I am also looking to encourage my self. 1 Samuel 30:6 6And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
+
 
 ## Scope
 
@@ -20,9 +23,12 @@
 
 *This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
 
+https://www.codeproject.com/Articles/15667/Simple-Reminder-Application
+
 
 ## Personnel requirements
 
+I am looking to have a 3 to 4 member team working on this.  I am plannung on using Github to work together. this wil hve 
 *In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
 
 ## Delivery schedule
